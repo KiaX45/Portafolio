@@ -1,7 +1,6 @@
 'use client';
 import React from 'react'
 import { motion } from "framer-motion"
-import imgproject from "../assets/proj2.jpg";
 import chefImage from "../assets/chef.png";
 import apple from "../assets/Apple.png";
 import assembly from "../assets/Assembly.png";
@@ -14,7 +13,7 @@ interface Project {
   devStack: string;
   github: string;
   link: string;
-  img: any;
+  img: any; // eslint-disable-line @typescript-eslint/no-explicit-any
 }
 
 const Projects: Project[] = [

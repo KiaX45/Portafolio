@@ -2,7 +2,7 @@ import React from 'react'
 import { TbBrandNextjs } from "react-icons/tb";
 import { SiTypescript, SiDjango } from "react-icons/si";
 import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare, FaJava } from "react-icons/fa";
-import { div } from 'framer-motion/client';
+
 
 const skillsIconst = [
     { icon: <TbBrandNextjs size={140} />, label: "NextJs" },

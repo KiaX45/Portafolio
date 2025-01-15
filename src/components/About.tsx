@@ -56,7 +56,7 @@ const About = () => {
                         <Image src={finance} alt='book' className='h-[130px] w-auto mx-auto' />
                         <div className='flex flex-col justify-center mx-5'>
                             <h2 className='text-2xl font-bold text-white/80'>INTERSHIPE</h2>
-                            <p className='text-lg text-white/70 mt-2' >I would love to participate and collaborate in internships, I'm sure you won't regret it.</p>
+                            <p className='text-lg text-white/70 mt-2'>I would love to participate and collaborate in internships, I&apos;m sure you won&apos;t regret it.</p>
                         </div>
                     </div>
 
